@@ -1,0 +1,20 @@
+Što sam sve napravio ? 
+
+    Završio sam fakultet
+    Radio kao Wordpress Web Developer 6 mjeseci
+    Radio kao ASP.NET Umbraco Web Developer Cms-u 6 mjeseci
+    Radim kao Web Developer u Hrvatskom Telekomu
+    Administriram 4 DPoS node-a
+
+Što se učim ? 
+
+    Agile & Scrum
+    ASP.NET
+    Javascript (jQuery, nodejs, Angular 6, Vue) 
+    Blockchain
+    Glazbenoj teoriji 
+
+Što želim raditi ? 
+
+    Želim razvijati web aplikacije koristeći .NET Core u backendu, Vue u frontendu.
+    Želim stvarati glazbu i svirati i pjevati gitaru. 
