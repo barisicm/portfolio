@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Web projekt",
+  "main": "N/A",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barisicm/portfolio.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Marin Barišić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barisicm/portfolio/issues"
+  },
+  "homepage": "https://github.com/barisicm/portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "grunt": "^1.0.4",
+    "gulp": "^4.0.1"
+  }
+}

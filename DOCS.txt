@@ -1,0 +1,17 @@
+Dokumentacija
+-----------------
+
+Web Projekt
+/
+/resources
+/index.html
+/README.md
+/DOCS.txt
+
+Razlika između dependencies i devDependencies : 
+    - 1. se koristi za module koji su potrebni za runtime aplikacije: Animate.js
+    - 2. se koristi za module koji se koriste za vrijeme developmenta: browser-sync,gulp;
+
+Alati: 
+    - gulp; gulp serve --> Poslužuje statiku
+    - grunt; trenutno ne radi ništa
